@@ -2,6 +2,7 @@ rainbow colors
 
 red
 orange
+yellow
 green
 blue
 navy
